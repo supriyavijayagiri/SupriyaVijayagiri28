@@ -1,6 +1,5 @@
 # SupriyaVijayagiri28
 
-@@ -1,16 +1,16 @@
  
  [![](https://visitcount.itsvg.in/api?id=VijayKumarPeddagari&icon=5&color=10)](https://visitcount.itsvg.in)
  <h1 align="center">Hello, I'm Supriya 😊</h1>
